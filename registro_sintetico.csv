@@ -1,0 +1,202 @@
+id_caso,fecha,edad,sexo,indicacion,acceso,n_stents,contraste_ml,fluoroscopia_min,complicacion
+CASO-001,2026-09-27,44,F,SCACEST,radial,1,132,7.9,ninguna
+CASO-002,2026-08-11,77,M,electiva,radial,1,106,11.8,nefropatia por contraste
+CASO-003,15/05/2026,85,M,electiva,radial,2,164,16.3,ninguna
+CASO-004,2026-08-04,61,M,angina estable,radial,0,50,7.4,ninguna
+CASO-005,2026-08-01,71,M,electiva,radial,2,102,18.3,ninguna
+CASO-006,04/04/2026,80,M,electiva,radial,2,128,12.7,ninguna
+CASO-007,2026-09-23,72,M,SCASEST,femoral,3,120,25.7,ninguna
+CASO-008,2026-12-12,40,M,SCASEST,Radial,1,149,5.3,ninguna
+CASO-009,26/07/2026,89,M,SCASEST,radial,1,105,9.8,ninguna
+CASO-010,2026-05-16,49,F,electiva,radial,1,122,7.6,ninguna
+CASO-011,2026-05-20,43,M,electiva,femoral,0,,2.6,sangrado mayor
+CASO-012,24/08/2026,38,M,SCASEST,radial,2,0,12.4,ninguna
+CASO-013,2026-11-19,82,M,SCASEST,radial,0,98,8.3,ninguna
+CASO-014,2026-09-25,38,F,electiva,radial,1,101,,ninguna
+CASO-015,07/09/2026,45,M,SCASEST,radial,2,116,15.9,ninguna
+CASO-016,2026-12-02,63,M,angina estable,radial,1,100,9.0,ninguna
+CASO-017,2026-03-22,46,F,SCASEST,femoral,2,155,21.1,ninguna
+CASO-018,10/11/2026,57,M,SCASEST,radial,1,119,13.5,ninguna
+CASO-019,2026-07-11,88,M,SCASEST,radial,0,83,7.2,hematoma
+CASO-020,2026-04-20,60,F,electiva,femoral,1,88,14.2,ninguna
+CASO-021,04/07/2026,55,F,angina estable,radial,0,96,9.9,ninguna
+CASO-022,2026-04-09,70,M,angina estable,radial,0,63,5.4,ninguna
+CASO-023,2026-09-28,38,M,electiva,radial ,1,110,13.1,ninguna
+CASO-024,22/11/2026,63,M,angina estable,radial,1,113,13.8,ninguna
+CASO-025,2026-05-25,90,M,electiva,radial,0,68,2.8,hematoma
+CASO-026,2026-04-04,72,F,electiva,femoral,0,72,7.0,ninguna
+CASO-027,22/11/2026,39,M,SCASEST,radial,1,124,12.7,ninguna
+CASO-028,2026-01-18,81,M,angina estable,femoral,1,138,7.1,ninguna
+CASO-029,2026-11-11,91,M,SCASEST,radial,3,227,20.9,ninguna
+CASO-030,28/12/2026,53,M,SCASEST,radial,2,179,14.2,ninguna
+CASO-031,2026-11-26,59,F,electiva,radial,0,53,8.4,ninguna
+CASO-032,2026-11-21,38,F,SCACEST,radial,1,124,5.3,ninguna
+CASO-033,19/09/2026,44,F,angina estable,radial,0,,6.2,ninguna
+CASO-034,2026-06-09,80,M,angina estable,radial,3,175,19.4,ninguna
+CASO-035,2026-10-01,56,M,angina estable,femoral,0,35,12.3,ninguna
+CASO-036,18/04/2026,87,F,electiva,radial,0,83,,ninguna
+CASO-037,2026-03-20,340,M,SCACEST,radial,2,131,17.0,ninguna
+CASO-038,2026-12-04,42,M,SCASEST,radial,0,46,3.1,ninguna
+CASO-039,25/06/2026,60,M,SCASEST,femoral,2,148,13.7,ninguna
+CASO-040,2026-08-28,84,F,SCASEST,radial,1,89,10.6,ninguna
+CASO-041,2026-07-11,62,M,electiva,radial,1,81,11.9,ninguna
+CASO-042,19/05/2026,78,M,electiva,radial,1,102,12.0,ninguna
+CASO-043,2026-09-27,59,M,SCACEST,radial,2,149,11.5,ninguna
+CASO-044,2026-06-21,63,F,SCASEST,RADIAL,1,136,10.8,ninguna
+CASO-045,01/05/2026,38,M,electiva,radial,2,148,16.5,ninguna
+CASO-046,2026-06-08,73,F,angina estable,radial,1,105,10.4,ninguna
+CASO-047,2026-05-14,64,F,angina estable,radial,1,,7.0,ninguna
+CASO-048,11/05/2026,68,F,angina estable,femoral,0,59,8.3,ninguna
+CASO-049,2026-10-10,54,F,SCASEST,radial,0,49,6.6,ninguna
+CASO-050,2026-09-28,80,M,SCASEST,radial,0,35,4.8,ninguna
+CASO-051,28/12/2026,49,M,SCASEST,radial,1,72,8.5,ninguna
+CASO-052,2026-08-26,39,M,angina estable,femoral,2,153,18.5,ninguna
+CASO-053,2026-08-05,92,M,angina estable,radial,0,92,5.9,ninguna
+CASO-054,06/12/2026,89,F,SCACEST,radial,1,138,12.2,sangrado mayor
+CASO-055,2026-08-18,82,M,angina estable,radial,0,75,7.6,ninguna
+CASO-056,2026-01-01,81,F,angina estable,radial,2,,17.2,ninguna
+CASO-057,14/07/2026,59,F,electiva,radial,1,115,12.2,ninguna
+CASO-058,2026-11-23,61,M,SCASEST,radial,2,169,14.8,ninguna
+CASO-059,2026-02-23,68,M,angina estable,radial,2,175,12.0,ninguna
+CASO-060,10/11/2026,65,M,SCACEST,radial,1,139,9.7,ninguna
+CASO-060,10/11/2026,65,M,SCACEST,radial,1,139,9.7,ninguna
+CASO-061,2026-12-15,60,M,SCASEST,Femoral,1,133,14.6,ninguna
+CASO-062,2026-11-17,86,M,SCACEST,radial,2,136,12.0,ninguna
+CASO-063,19/09/2026,40,M,electiva,radial,0,95,4.2,ninguna
+CASO-064,2026-12-24,39,M,angina estable,radial,0,93,8.0,ninguna
+CASO-065,2026-12-23,59,F,angina estable,femoral,1,99,13.7,ninguna
+CASO-066,16/09/2026,53,M,electiva,radial,0,35,7.9,ninguna
+CASO-067,2026-07-24,88,M,SCASEST,radial,2,148,18.6,ninguna
+CASO-068,2026-07-04,74,M,electiva,radial,0,72,7.2,ninguna
+CASO-069,06/02/2026,41,M,SCASEST,radial,3,192,16.0,ninguna
+CASO-070,2026-12-23,45,F,angina estable,radial,1,102,10.3,ninguna
+CASO-071,2026-10-09,92,F,angina estable,femoral,0,36,2.0,hematoma
+CASO-072,27/05/2026,82,F,angina estable,radial,1,,14.2,ninguna
+CASO-073,2026-04-06,38,M,angina estable,radial,1,86,9.4,ninguna
+CASO-074,2026-12-19,48,M,SCASEST,radial,1,117,10.6,ninguna
+CASO-075,03/11/2026,81,F,electiva,radial,1,121,13.9,ninguna
+CASO-076,2026-03-08,60,M,SCASEST,radial,1,106,9.9,ninguna
+CASO-077,2026-10-19,85,M,angina estable,radial,3,204,19.0,ninguna
+CASO-078,09/03/2026,80,M,electiva,femoral,0,,6.1,ninguna
+CASO-079,2026-02-13,66,M,electiva,radial,0,104,9.2,ninguna
+CASO-080,2026-04-20,66,F,SCASEST,radial,3,168,20.8,ninguna
+CASO-081,05/04/2026,63,M,electiva,femoral,0,63,3.5,ninguna
+CASO-082,2026-07-06,72,M,SCASEST,radial,1,96,12.1,ninguna
+CASO-083,2026-10-20,65,F,angina estable,radial,0,116,12.2,ninguna
+CASO-084,17/12/2026,64,M,angina estable,radial,0,54,2.0,ninguna
+CASO-085,2026-07-12,60,F,electiva,radial,1,104,10.4,ninguna
+CASO-086,2026-12-06,39,M,angina estable,femoral,0,76,9.4,ninguna
+CASO-087,04/12/2026,51,M,SCACEST,radial,1,88,11.2,ninguna
+CASO-088,2026-11-07,59,F,electiva,radial,0,48,6.8,ninguna
+CASO-089,2026-12-18,60,M,SCASEST,radial,1,57,13.1,ninguna
+CASO-090,04/06/2026,65,F,electiva,radial,0,94,7.4,ninguna
+CASO-091,2026-09-10,71,M,SCASEST,radial,0,112,10.7,hematoma
+CASO-092,2026-05-14,86,M,electiva,radial,1,115,9.6,ninguna
+CASO-093,14/08/2026,49,M,SCASEST,radial,2,145,18.8,ninguna
+CASO-094,2026-03-20,66,M,SCASEST,radial,3,191,17.1,ninguna
+CASO-095,2026-09-22,78,M,angina estable,radial,0,54,9.7,ninguna
+CASO-096,26/10/2026,75,M,electiva,radial,1,105,10.9,ninguna
+CASO-097,2026-06-09,83,M,SCASEST,radial,1,147,9.7,ninguna
+CASO-098,2026-12-18,41,M,electiva,radial,0,85,10.2,ninguna
+CASO-099,26/12/2026,46,M,angina estable,radial,1,98,11.2,ninguna
+CASO-100,2026-05-12,66,F,electiva,radial,1,104,10.2,ninguna
+CASO-101,2026-10-03,47,M,SCASEST,radial,3,209,17.9,ninguna
+CASO-102,24/04/2026,88,M,electiva,radial,1,110,9.2,ninguna
+CASO-103,2026-07-03,56,M,SCASEST,radial,1,128,,ninguna
+CASO-104,2026-08-23,50,M,angina estable,radial,0,93,8.1,ninguna
+CASO-105,07/08/2026,50,M,electiva,radial,2,137,12.3,ninguna
+CASO-106,2026-12-12,46,F,SCASEST,radial,0,56,14.2,ninguna
+CASO-107,2026-10-07,57,M,SCASEST,radial,1,64,12.3,ninguna
+CASO-108,10/12/2026,56,M,angina estable,radial,0,104,5.2,ninguna
+CASO-109,2026-05-17,39,F,SCASEST,radial,1,117,14.5,ninguna
+CASO-110,2026-07-21,91,F,angina estable,radial,1,97,3.6,ninguna
+CASO-111,25/09/2026,71,M,SCASEST,radial,3,148,22.9,ninguna
+CASO-112,2026-09-12,68,M,electiva,radial,0,58,3.4,ninguna
+CASO-113,2026-08-12,51,M,SCASEST,radial,1,104,9.1,ninguna
+CASO-114,14/07/2026,76,M,electiva,radial,0,62,9.0,ninguna
+CASO-115,2026-06-23,85,M,electiva,radial,2,152,7.5,ninguna
+CASO-116,2026-10-08,92,M,angina estable,radial,1,107,11.7,ninguna
+CASO-117,25/11/2026,92,F,SCASEST,femoral,1,122,8.9,hematoma
+CASO-118,2026-03-02,65,F,SCACEST,radial,1,98,11.2,ninguna
+CASO-119,2026-04-09,52,M,electiva,femoral,1,106,10.1,ninguna
+CASO-120,03/04/2026,42,F,electiva,femoral,1,135,14.4,ninguna
+CASO-121,2026-09-01,42,M,angina estable,radial,0,,6.5,ninguna
+CASO-122,2026-04-12,41,M,SCACEST,radial,3,188,17.9,ninguna
+CASO-123,03/07/2026,82,M,SCASEST,radial,3,190,13.2,ninguna
+CASO-124,2026-01-07,39,M,SCASEST,radial,0,,,ninguna
+CASO-125,2026-11-08,43,F,SCACEST,radial,1,88,10.6,ninguna
+CASO-126,28/08/2026,83,M,electiva,radial,1,126,13.8,ninguna
+CASO-127,2026-04-02,51,M,angina estable,radial,1,72,10.2,ninguna
+CASO-128,2026-09-04,61,M,angina estable,radial,0,99,9.8,ninguna
+CASO-129,08/12/2026,59,M,electiva,radial,1,90,9.8,ninguna
+CASO-130,2026-03-04,90,M,SCASEST,radial,2,130,15.5,ninguna
+CASO-131,2026-03-26,54,M,angina estable,radial,1,182,,ninguna
+CASO-132,21/06/2026,38,M,angina estable,femoral,1,149,6.1,ninguna
+CASO-133,2026-09-12,67,F,SCACEST,radial,1,,11.5,ninguna
+CASO-134,2026-08-18,75,F,electiva,femoral,0,,6.8,ninguna
+CASO-135,21/04/2026,49,M,SCASEST,radial,1,84,14.2,ninguna
+CASO-136,2026-09-06,40,F,electiva,radial,2,168,18.4,ninguna
+CASO-137,2026-07-11,48,M,SCASEST,radial,0,35,3.3,ninguna
+CASO-138,23/02/2026,58,M,SCASEST,femoral,2,162,21.9,ninguna
+CASO-139,2026-09-06,42,F,SCASEST,radial,2,179,12.5,ninguna
+CASO-140,2026-12-01,59,M,SCASEST,radial,1,151,11.8,ninguna
+CASO-141,06/06/2026,78,F,SCASEST,radial,1,,12.7,ninguna
+CASO-142,2026-05-19,76,F,SCACEST,femoral,1,,5.6,ninguna
+CASO-143,2026-12-05,78,M,electiva,radial,3,190,24.8,ninguna
+CASO-144,13/08/2026,82,M,angina estable,femoral,1,,10.9,ninguna
+CASO-145,2026-10-14,62,M,SCASEST,radial,2,131,19.0,ninguna
+CASO-146,2026-07-02,92,F,angina estable,radial,0,53,6.1,ninguna
+CASO-147,15/07/2026,63,F,angina estable,radial,0,,3.7,ninguna
+CASO-148,2026-07-28,51,M,SCASEST,radial,1,146,7.9,ninguna
+CASO-149,2026-11-15,54,M,angina estable,radial,2,155,12.7,ninguna
+CASO-150,19/07/2026,90,M,angina estable,femoral,1,157,10.1,ninguna
+CASO-151,2026-07-26,73,M,SCASEST,radial,1,159,12.5,ninguna
+CASO-152,2026-01-25,53,F,angina estable,radial,0,100,5.9,ninguna
+CASO-153,03/01/2026,86,M,SCASEST,radial,2,176,19.3,ninguna
+CASO-154,2026-06-26,54,M,electiva,radial,0,96,5.8,ninguna
+CASO-155,2026-04-14,55,M,SCASEST,radial,2,152,12.7,ninguna
+CASO-156,15/05/2026,82,M,SCASEST,radial,1,150,8.8,ninguna
+CASO-157,2026-04-03,49,M,angina estable,radial,0,95,4.1,ninguna
+CASO-158,2026-03-19,48,M,SCASEST,radial,1,131,12.5,ninguna
+CASO-159,16/04/2026,80,M,SCACEST,femoral,2,146,10.8,ninguna
+CASO-160,2026-07-26,68,M,electiva,radial,1,,8.5,ninguna
+CASO-161,2026-01-19,42,M,angina estable,femoral,0,35,11.2,ninguna
+CASO-162,18/12/2026,40,M,angina estable,radial,0,46,,ninguna
+CASO-163,2026-11-15,61,M,SCASEST,radial,1,106,15.0,ninguna
+CASO-164,2026-09-27,77,M,angina estable,radial,1,111,10.2,ninguna
+CASO-165,21/05/2026,61,M,SCASEST,radial,1,92,13.2,ninguna
+CASO-166,2026-12-27,92,F,SCACEST,radial,1,126,7.2,ninguna
+CASO-167,2026-04-21,75,M,angina estable,radial,2,146,16.2,ninguna
+CASO-168,15/03/2026,92,F,angina estable,radial,1,91,11.8,ninguna
+CASO-169,2026-06-14,76,M,angina estable,radial,0,68,3.1,ninguna
+CASO-170,2026-04-01,87,M,electiva,radial,0,110,5.8,ninguna
+CASO-171,22/09/2026,64,M,SCASEST,radial,1,103,13.5,ninguna
+CASO-172,2026-07-13,43,F,SCASEST,radial,0,71,6.7,ninguna
+CASO-173,2026-02-14,42,M,angina estable,radial,1,94,15.5,ninguna
+CASO-174,07/12/2026,91,M,SCASEST,radial,3,169,17.1,ninguna
+CASO-175,2026-07-18,86,M,electiva,radial,2,168,16.2,ninguna
+CASO-176,2026-01-17,56,M,electiva,radial,0,117,2.0,ninguna
+CASO-177,22/09/2026,39,F,SCACEST,radial,3,163,13.9,ninguna
+CASO-178,2026-08-15,54,M,SCASEST,radial,1,89,8.9,ninguna
+CASO-179,2026-04-28,38,F,SCASEST,radial,1,84,14.4,ninguna
+CASO-180,13/04/2026,64,M,angina estable,radial,1,74,9.3,ninguna
+CASO-181,2026-01-07,66,M,SCASEST,radial,1,120,9.3,ninguna
+CASO-182,2026-01-27,41,M,SCACEST,radial,1,99,12.9,ninguna
+CASO-183,19/09/2026,68,M,electiva,radial,0,129,7.5,ninguna
+CASO-184,2026-03-24,66,M,angina estable,radial,3,136,20.2,ninguna
+CASO-185,2026-11-10,78,M,SCACEST,radial,1,116,13.3,ninguna
+CASO-186,16/09/2026,86,M,SCASEST,radial,0,112,12.6,ninguna
+CASO-187,2026-05-17,88,M,angina estable,femoral,0,71,6.8,ninguna
+CASO-188,2026-08-25,57,F,electiva,radial,0,79,9.7,ninguna
+CASO-189,13/12/2026,89,M,angina estable,femoral,1,141,5.8,sangrado mayor
+CASO-190,2026-06-03,47,M,SCASEST,radial,3,181,17.0,ninguna
+CASO-191,2026-12-20,90,F,electiva,radial,1,135,10.5,ninguna
+CASO-192,11/07/2026,47,M,electiva,radial,0,73,3.2,ninguna
+CASO-193,2026-11-11,92,F,angina estable,radial,0,52,6.8,ninguna
+CASO-194,2026-10-09,71,F,SCACEST,radial,2,181,16.5,ninguna
+CASO-195,26/09/2026,89,M,angina estable,radial,0,,6.0,ninguna
+CASO-196,2026-11-10,61,M,electiva,radial,0,83,4.2,ninguna
+CASO-197,2026-04-20,58,F,SCASEST,femoral,1,123,4.8,ninguna
+CASO-198,07/09/2026,86,F,electiva,radial,1,,9.2,ninguna
+CASO-199,2026-10-22,38,M,SCASEST,radial,2,124,14.6,ninguna
+CASO-200,2026-10-26,45,M,electiva,radial,2,149,20.4,ninguna

@@ -13,7 +13,7 @@ La tarea que más miedo da delegar en una IA es el análisis de datos, y con raz
 Así que no se aprende con el registro propio. Se aprende con este, que tiene las trampas puestas a propósito y una hoja de respuestas para comprobar si las has cazado. Cuando el procedimiento te salga solo, entonces sí: tu registro, sin identificadores, y en una herramienta con contrato de tratamiento de datos.
 
 > **Este fichero es 🟢 (sintético): vale cualquier herramienta.**
-> **Tu registro real no lo es.** Un registro clínico despojado de identificadores sigue siendo 🟡 como mínimo — herramienta con DPA y sin entrenamiento con tus entradas — y si lleva iniciales, fechas de nacimiento o números de historia, es 🟠 y solo va en sistemas autorizados por tu organización. La escalera completa está en la Guía.
+> **Tu registro real no lo es.** Un registro clínico despojado de identificadores sigue siendo 🟡 como mínimo — herramienta que no entrene con lo que escribes y en la que puedas borrar la conversación — y si lleva iniciales, fechas de nacimiento o números de historia, es 🟠 y solo va en sistemas autorizados por tu organización. La escalera completa está en la Guía.
 
 ## Cómo se usa
 
@@ -54,7 +54,9 @@ Sin acentos en cabeceras ni valores, a propósito: así se abre igual en cualqui
 Analiza este CSV: (a) perfil de los datos y valores ausentes; (b) 4 gráficas:
 evolución mensual de la actividad, distribución por indicación, contraste por
 número de stents y complicaciones por vía de acceso; (c) 3 hallazgos con su
-magnitud exacta; (d) 3 limitaciones de estos datos. Ejecuta código: no estimes
+magnitud exacta; (d) 3 limitaciones de estos datos; (e) valores imposibles o
+incoherentes entre columnas, indicando el número de fila — búscalos
+activamente, no supongas que el fichero está limpio. Ejecuta código: no estimes
 a ojo.
 ```
 
